@@ -1,3 +1,43 @@
+# Werdevs task
+**You're welcome**
+
+[It's a link to a website that I made](https://61a8eef18fbefc33be45f774--admiring-hawking-19bd93.netlify.app/about)
+
+[It's a link to the layout](https://drive.google.com/file/d/1dN7BKKymX34z-pXwLbqyY3sabxY0Mr57/view?usp=sharing)
+
+What was I supposed to do?  **There are all items** :point_down:
+
+:pushpin:  Expand the project to React and yarn (instead of npm). Use SCSS instead of CSS".
+
+:pushpin: Make up one screen (full screen photo without vertical and horizontal scrolling, header with menu and logo, Text with title, calendar).
+
+:pushpin: Good layout on mobile.
+
+:pushpin: Calendar with dates for the current month with left / right arrows - previous / next month). Should be created by you without using ready-made calendar libraries. It is allowed to use moment.js, date-fns, luxon and analogs.
+
+:pushpin: When clicking on a date, show a popup with 2 inputs.
+
+:pushpin: In the first input, display the month of the date that was clicked (with a word).
+
+:pushpin: In the second, display the day of the week of the date that was clicked (Mon, Tue, Sat, Sun) with the word.
+
+:pushpin: Displaying a popup and sending data to it using Redux.
+
+:pushpin: Upload to github (send link).
+
+
+ - Развернуть проект на Next.js и yarn (вместо npm). Используйте SCSS, а не CSS” - 2 баллa
+
+ - Сверстать один экран (фото на весь экран без вертикального и горизонтального скролла, header с меню и лого, Text with title, calendar)- 5 баллов
+ - Хорошая верстка на мобильном - дополнительно 3 балла
+ - Календарь с датами за текущий месяц со стрелками влево/вправо - предыдущий/следующий месяц). Должен быть создан Вами без использования готовых библиотек календарей. Допускается использования moment.js, date-fns, luxonи аналогов. - 5 баллов
+
+ - При клике на дату показывать попап с 2 инпутами - 1 баллa.
+ - В первом инпуте отображать месяц даты, на которуюкликнули (словом) - 2 балла
+ - Во втором отображать день недели даты, на которую кликнули (пн, вт, сб, вс) словом - 2 балла
+ - Отображение попапа и отправка в него данных с помощью Redux - 5 баллов
+ - Залить на github(прислать ссылку) - 1 балл
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
