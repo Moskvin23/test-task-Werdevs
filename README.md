@@ -1,4 +1,7 @@
+# ![](https://media-exp1.licdn.com/dms/image/C4E0BAQGh4caKsnssMg/company-logo_200_200/0/1615556773625?e=2159024400&v=beta&t=YLHaS5Sf8z6_oKKF9ugEbEyDJkl7bdFrdCGR4MGL8Ok)
+
 # Werdevs task
+
 **You're welcome**
 
 [It's a link to a website that I made](https://61a8eef18fbefc33be45f774--admiring-hawking-19bd93.netlify.app/)
@@ -25,7 +28,7 @@ What was I supposed to do?  **There are all items** :point_down:
 
 :pushpin: Upload to github (send link).
 
-
+# 
  - Развернуть проект на Next.js и yarn (вместо npm). Используйте SCSS, а не CSS” - 2 баллa
 
  - Сверстать один экран (фото на весь экран без вертикального и горизонтального скролла, header с меню и лого, Text with title, calendar)- 5 баллов
