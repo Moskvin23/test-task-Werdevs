@@ -1,7 +1,7 @@
 # Werdevs task
 **You're welcome**
 
-[It's a link to a website that I made](https://61a8eef18fbefc33be45f774--admiring-hawking-19bd93.netlify.app/about)
+[It's a link to a website that I made](https://61a8eef18fbefc33be45f774--admiring-hawking-19bd93.netlify.app/)
 
 [It's a link to the layout](https://drive.google.com/file/d/1dN7BKKymX34z-pXwLbqyY3sabxY0Mr57/view?usp=sharing)
 
