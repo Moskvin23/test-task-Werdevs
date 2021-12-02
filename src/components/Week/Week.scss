@@ -1,0 +1,23 @@
+.Day {
+    color: #dfdfdf;
+    font-size: 16px;
+    line-height: 22px;
+    cursor: pointer;
+    padding: 2px 5px;
+    border: 1px solid transparent;
+    transition: .5s ease-in-out;
+    &:hover {
+      transition: .1s ease;
+      border: 1px solid #fdd000;
+    }
+    &.Selected {
+      border: 1px solid #fdd000;
+    }
+    &.Today {
+      background-color: #fdd000;
+      color: #272829;
+      &:hover {
+        background-color: #fdd000;
+      }
+    }
+  }

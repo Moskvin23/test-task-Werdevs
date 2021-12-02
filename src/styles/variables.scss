@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800&display=swap');
+
+
+$Rubik: 'Rubik' , sans-serif;
+
+//colors
+$white: #FFFFFF;
+$gainsboro: #dee0e0;
+$darkslategray: #3d3d3d;
+$dark: #272829;
+$gold: #fdd000;
+$whitesmoke: #f2f2f2;
+$gainsboro: #dfdfdf;
+
+
+//header height
+$headerHeight: 171px; 
+$headerHeight2: 85.5px;
+
+
+@mixin breakpoint($point) {
+    @if $point == md {
+            //768px
+            @media (min-width: 48em){
+                @content;
+                
+            }
+    }
+}

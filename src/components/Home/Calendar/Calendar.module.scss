@@ -1,0 +1,60 @@
+.Container {
+    max-width: 300px;
+    min-height: 380px;
+  }
+  .Months {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    &::after {
+      content: '';
+      position: absolute;
+      top: 30px;
+      left: 0px;
+      width: 100%;
+      height: 1px;
+      background-color: #dfdfdf;
+    }
+  }
+  .MonthsText {
+    font-size: 18px;
+    line-height: 20px;
+    color: #dfdfdf;
+  }
+  .CalendarContainer {
+    margin-top: 40px;
+    @media (max-width: 1024px) {
+      grid-gap: 10px;
+    }
+  }
+  .DaysOfTheWeek {
+    margin-top: 50px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    &::before {
+      content: '';
+      position: absolute;
+      top: -15px;
+      left: 0px;
+      width: 100%;
+      height: 1px;
+      background-color: #dfdfdf;
+    }
+    &::after {
+      content: '';
+      position: absolute;
+      top: 30px;
+      left: 0px;
+      width: 100%;
+      height: 1px;
+      background-color: #dfdfdf;
+    }
+  }
+  .DayOftheWeek {
+    color: #dfdfdf;
+    padding: 2px 5px;
+  }
+  
